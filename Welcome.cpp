@@ -3,9 +3,11 @@ using namespace std;
 
 int main()
 {
-cout<<"Sir Syed Case Institude of Technology Islamabad";
+cout<<"Sir Syed Institude of Information and Technology";
+
 
 return 0;
+
 
 
 }
